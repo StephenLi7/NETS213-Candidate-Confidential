@@ -4,7 +4,7 @@
 https://go.gliffy.com/go/share/s3qv7dtvnpcooakbgw1u
 
 ## Here is information about our project:
-Final Project for NETS 213. A one stop shop for information on the 2020 presidential candidates.
+Our final project for NETS 213 is a one stop shop for information about the platforms and views of the 2020 presidential candidates.
 Slogan: 2020 Vision for the 2020 Election
 From the makers of College Confidential… we bring you Candidate Confidential, the simple and concise place to view each candidate for the 2020 election, their policies, and their stances on various political topics.
 
