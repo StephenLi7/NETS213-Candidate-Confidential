@@ -1,5 +1,10 @@
 # NETS213-Candidate-Confidential
-Final Project for NETS 213. A one stop shop for information on the 2020 presidential candidates.
+
+## Below is a Flow Diagram detailing the stages of our project and the process we aim to follow:
+https://go.gliffy.com/go/share/s3qv7dtvnpcooakbgw1u
+
+## Here is information about our project:
+Our final project for NETS 213 is a one stop shop for information about the platforms and views of the 2020 presidential candidates.
 Slogan: 2020 Vision for the 2020 Election
 From the makers of College Confidential… we bring you Candidate Confidential, the simple and concise place to view each candidate for the 2020 election, their policies, and their stances on various political topics.
 
