@@ -1,6 +1,6 @@
 # NETS213-Candidate-Confidential
 
-##Below is a Flow Diagram detailing the stages of our project and the process we aim to follow:
+## Below is a Flow Diagram detailing the stages of our project and the process we aim to follow:
 https://go.gliffy.com/go/share/s3qv7dtvnpcooakbgw1u
 
 Final Project for NETS 213. A one stop shop for information on the 2020 presidential candidates.
