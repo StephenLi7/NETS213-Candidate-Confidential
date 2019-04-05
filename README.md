@@ -10,21 +10,11 @@ Slogan: 2020 Vision for the 2020 Election
 
 From the makers of College Confidential… we bring you Candidate Confidential, the simple and concise place to view each candidate for the 2020 election, their policies, and their stances on various political topics.
 
-What problem does it solve?
+#### What problem does it solve?
 Candidate Confidential solves the ever-growing issue of uninformed or overwhelmed voters. Some people don’t know who to vote for and don’t want to spend time searching the positions politicians take. Others just don’t know what’s fake news and may make misinformed voting decisions. And others just don’t care! With an important election coming in one and a half years, get up to speed with all of the candidates that have announced their running.
 
-What type of project is it?
-We think that this could be a human computation project type because it is primarily used to solve a problem. It will utilize the crowd in various aspects such as determining important topics to differentiate candidates. But at the same time, it also takes a unique spin by using the crowd also as the means of getting the information. It could almost be viewed as a forum and social network of some sort.
-
-Who will be the members of the crowd?
-The members of the crowd will be the general public. It will be similar to the idea CCB came up with called “Roll Call.” But, we may also want the crowd to be made up of people motivated in politics or willing to do the work so we may want the crowd to have specific demographics.
-
-How will you incentivize them to participate?
-The primary incentive to participate in this will be financial compensation. We will try to pay them well in order to actually get good information and have them do the work we want them to. Part of the incentivization is also working towards a cause that is informative and helpful to others. By participating, they will help other people become more politically informed.
-
-What will they provide, and what sort of skills will they need?
-We will need the crowd in two parts of this idea. The first will be compiling data on issues the crowd thinks are important for political candidates. These will be the political platforms that we will ask the crowd to call or research each political candidate on in the second task we’ll need the crowd for. I don’t think they’ll need skills other than the ability to research using credible websites or the willingness to call. Other than that, they don’t necessarily need other skills.
-
+#### About the crowd...
+The members of the crowd will be the general public. We may also want the crowd to be made up of people motivated in politics or willing to do the work so we may want the crowd to have specific demographics. The primary incentive to participate in this will be financial compensation, in addition to working towards a cause that is informative and helpful to others. By participating, they will help other people become more politically informed. As a human computation project, our project will utilize the crowd as a means of determining important topics to differentiate candidates and collecting the information about the selected political platforms. It could almost be viewed as a forum and social network of some sort. 
 
 #### To aggregate results from the crowd...
 We will aggregate the results from the crowd in different ways for each part of the crowdsourcing we will need. The first part will be asking the crowd for topics that will be important for the 2020 election along with important issues in general. We can simply collect and organize the responses by specific word or concept related to some issue. Then we will have a breakdown of the most popular issues for the 2020 election. After the first part, we will aggregate the issues into a list ranking the most popular ones. Then we will ask workers in a second study to find out candidate positions on these topics. From there, we can aggregate that into profiles and list views that we can place on a website we develop for example.
