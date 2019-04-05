@@ -23,7 +23,7 @@ The first part will ask the crowd for topics that will be important for the 2020
 3. We will only provide monetary compensation in the case that the information is reliable - financial compensation as a means of quality control.
 4. We will run a second HIT where other members of the crowd will verify whether the information and sources provided in the first round of HITs are accurate and credible - similar to the photo verifying process where the crowd checked if the image border was correct. 
 
-## Project Milestones:
+## Project Milestones and Point Values:
 ### Overview
 The first part will be the collection of issues that people find relevant to the 2020 election. This part will be done by the crowd, likely on Amazon MT. After receiving these results, the grouping of responses into larger issues will likely be done automatically with some oversight from our group. After we have decided on the topics we want to know about each candidate, we will have another HIT that will ask the crowd to help find out information about these candidates regarding these topics. They will provide links and a brief summary of what in the text confirms the stance a candidate took on a topic. This will also be done by the crowd. Hopefully, in the process, we’ll be able to use some sort of automated system to check whether the source they provide is credible based off of some list of credible sources that we can compare it to.
 
