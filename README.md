@@ -33,6 +33,7 @@ The project will be successful if we are able to obtain information about the ca
 The first part will be the collection of issues that people find relevant to the 2020 election. This part will be done by the crowd, likely on Amazon MT. After receiving these results, the grouping of responses into larger issues will likely be done automatically with some oversight from our group. After we have decided on the topics we want to know about each candidate, we will have another HIT that will ask the crowd to help find out information about these candidates regarding these topics. They will provide links and a brief summary of what in the text confirms the stance a candidate took on a topic. This will also be done by the crowd. Hopefully, in the process, we’ll be able to use some sort of automated system to check whether the source they provide is credible based off of some list of credible sources that we can compare it to.
 
 ### Milestone 1 - HIT Creation
+For the first HIT, we will determine a list of political topics or issues as a team. Using this list, we will create a multiple choice HIT and ask each worker to choose three topics that they think are pertinent to the 2020 election.
 
 ### Milestone 2 – Publish the HIT
 
