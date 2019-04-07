@@ -13,10 +13,6 @@ From the makers of College Confidential… we bring you Candidate Confidential, 
 #### What problem does it solve?
 Candidate Confidential solves the ever-growing issue of uninformed or overwhelmed voters. Some people don’t know who to vote for and don’t want to spend time searching the positions politicians take. Others just don’t know what’s fake news and may make misinformed voting decisions. And others just don’t care! With an important election coming in one and a half years, get up to speed with all of the candidates that have announced their running.
 
-
-#### To aggregate results from the crowd...
-The first part will ask the crowd for topics that will be important for the 2020 election along with important issues in general. We can simply collect and organize the responses by specific word or concept related to some issue. Then we will have a breakdown of the most popular issues for the 2020 election. After the first part, we will aggregate the issues into a list ranking the most popular ones. Then we will ask workers in a second study to find out candidate positions on these topics. From there, we can aggregate that into profiles and list views that we can place on a website we develop for example.
-
 #### To ensure quality of work provided by the crowd...
 1. For the crowd workers to be paid, we will require them to find a source for the information on the candidate's position they provide and give a link to that source. This will ensure that they are actually finding a source that can later be verified.
 2. The crowd workers must find an excerpt within the article that declares the candidate's position.
@@ -45,3 +41,9 @@ In this part, we will take the data provided by the crowd and our analysis and v
 ### Milestone 5 – Publish results (4)
 Perhaps the most difficult portion of the project will be presenting this information in a user-friendly and easily understandable website. We will likely be building a website using Github to present our findings on each candidate on these topics for the world to see. We may also write a report on analyzing the strengths and weaknesses of using the crowd for a project like this. 
 
+## Data
+The format of the data will be standardized across all candidates and all topics.
+The first thing we will ask for in the HITs is given one of the candidates and a topic, whether they support or are against it. This will help us establish a majority rule in terms of the candidate's stance on the topic.
+Next, we'll ask for a URL for a website that the workers will have used as their source for determining a candidate's stance on a particular topic for the election. They will provide the link and this will serve as a quality control aspect.
+Third, we will ask for the paragraph within the article that they are basing the position of the candidate off of. They can copy paste this but this data will be valuable in ensuring that the workers are actually finding and understanding information on the position the candidate has and it will be helpful for us to verify the work.
+From here, we may ask the crowd where on a spectrum they think this candidate is regarding this specific topic in addition to a question on their political views.
