@@ -3,8 +3,9 @@
 ############################################################
 
 import pandas as pd
-from collections import Counter
 
+
+#Adds a score column to the data file that includes the worker's score for the predetermined gold-standard questions
 def determine_score(mturk_res):
     worker_scores = [];
     for x in mturk_res.index:
@@ -58,7 +59,6 @@ def determine_score(mturk_res):
         worker_scores[x] = worker_score; 
     mturk_res[gold_score] = worker_scores;
     return mturk_res;
- 
  
 def main():
     mturk_res = pd.read_csv('data.csv')
