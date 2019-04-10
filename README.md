@@ -32,7 +32,7 @@ As a third HIT, we may attempt to verify the work of the crowd by having the cro
 ### Milestone 2 – Publish the HIT (1)
 
 ### Milestone 3 – Analysis of data provided by the crowd (4)
-We will aggregate the data here. Using majority vote, we will determine what the stance of each candidate is regarding each topic that was deemed relevant by the crowd. From here we will begin to build a database regarding the opinions of each candidate. If more data is required, we may go back and publish the HIT again to obtain more data. 
+We will aggregate the data here. Using a program and calculation we create, we will assign a point value using gold standards to each HIT done by workers. If the score meets out requirements, then we will accept the information provided by that MTurker. After this data analysis, we will aggregate it into a scale that will be able to take the average values assigned to the candidates' positions and place them along a spectrum that can be viewed and compared to the other candidates with. 
 
 ### Milestone 4 – Verify work of the crowd (4)
 In this part, we will take the data provided by the crowd and our analysis and verify that it is acceptable. First, we may publish a third HIT that asks the crowd to verify the information provided by other crowdworkers in our second HIT. Primarily, we will run our quality control module in the program/equation that we run to calculate their score on the gold standard questions. This will verify if the data of that MTurk worker is reliable and able to be used for our final results and report. 
@@ -45,4 +45,4 @@ The format of the data will be standardized across all candidates and all topics
 The first thing we will ask for in the HITs is given one of the candidates and a topic, whether they support or are against it. This will help us establish a majority rule in terms of the candidate's stance on the topic.
 Next, we'll ask them to do some research on the candidate's stance on the topic and then to rate their position on the topic on a scale of 1-10 where 1 is extremely conservative and 10 is extremely liberal. 
 We will ask them to do this task across the topics that are the most important for the 2020 election.
-Afterwards, we will gather demographic and background information about the workers. What their political stance is (to understand if there's any bias), their gender, and age. These will give us a better understanding of our workers and potential insights on the data.
+Afterwards, we will gather demographic and background information about the workers. What their political stance is (to understand if there's any bias), their gender, and age. These will give us a better understanding of our workers and potential insights on the data. This information from our initial HIT will then be used in our QC and Aggregate Modules to synthesize the data we have and also ensure that it is accurate and unbiased. From here, we will use our data to produce our final output.
