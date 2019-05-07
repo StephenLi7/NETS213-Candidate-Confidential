@@ -1,23 +1,28 @@
 ## Basic project information
 # Candidate Confidential
 ### Stephen Li, Sam Cook, Adam Eldefrawy, Sydney Essex
-Give a one sentence description of your project. Please use the name of the project in your description.
+From the makers of College Confidential… we bring you Candidate Confidential, the simple and concise place to view the new candidates' policies and stances on various political topics for the 2020 election.
+
 Logo for your project.
-What problem does it solve?
-What similar projects exist?
-What type of project is it?
+**What problem does it solve?**
+Candidate Confidential solves the ever-growing issue of uninformed or overwhelmed voters. Some people don’t know who to vote for and don’t want to spend time searching the positions politicians take. Others just don’t know what’s fake news and may make misinformed voting decisions. And others just don’t care! With an important election coming in one and a half years, get up to speed with all of the candidates that have announced their running. After meeting with a TA, we decided that because the only two Republican candidates are Trump (whose policies and stances on topics have been made clear in his presidency) and one other minor candidate, we decided to focus solely on all of the democratic candidates because there are so many running (20 so far).
+
+**What similar projects exist?**
+There is a company called Emporis that is a provide of building data. They ran something called Emporis Community which was a website where people in the crowd could submit building information. This helps them provide information to their clients which is similar in that we ask the crowd so that we can help provide information to the general public regarding political candidates.
+
+**What type of project is it?**
 Human computation algorithm
 Social science experiment with the crowd
 A tool for crowdsourcing
 A business idea that uses crowdsourcing
 Other
-What was the main focus of your team’s effort
-Engineering a complex system
+
+**What was the main focus of your team’s effort**
 Conducting an in depth analysis of data
-Something in between
+
 How does your project work? Describe each of the steps involved in your project. What parts are done by the crowd, and what parts will be done automatically.
-Provide a link to your final presentation video. Give the full path to your Vimeo video, and the password, if it is not public.
-The Crowd
+
+**Link to our final video:**
 Who are the members of your crowd?
 For your final project, did you simulate the crowd or run a real experiment?
 Simulated crowd
