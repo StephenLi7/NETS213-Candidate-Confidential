@@ -3,7 +3,8 @@
 ### Stephen Li, Sam Cook, Adam Eldefrawy, Sydney Essex
 From the makers of College Confidential… we bring you Candidate Confidential, the simple and concise place to view the new candidates' policies and stances on various political topics for the 2020 election.
 
-Logo for your project.
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 **What problem does it solve?**
 Candidate Confidential solves the ever-growing issue of uninformed or overwhelmed voters. Some people don’t know who to vote for and don’t want to spend time searching the positions politicians take. Others just don’t know what’s fake news and may make misinformed voting decisions. And others just don’t care! With an important election coming in one and a half years, get up to speed with all of the candidates that have announced their running. After meeting with a TA, we decided that because the only two Republican candidates are Trump (whose policies and stances on topics have been made clear in his presidency) and one other minor candidate, we decided to focus solely on all of the democratic candidates because there are so many running (20 so far).
 
