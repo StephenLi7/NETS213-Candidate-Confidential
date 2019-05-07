@@ -1,4 +1,3 @@
-## Basic project information
 # Candidate Confidential
 ### Stephen Li, Sam Cook, Adam Eldefrawy, Sydney Essex
 From the makers of College Confidential… we bring you Candidate Confidential, the simple and concise place to view the new candidates' policies and stances on various political topics for the 2020 election.
@@ -23,29 +22,31 @@ How does your project work? Describe each of the steps involved in your project.
 
 **Link to our final video:**
 
-### The Crowd
+## The Crowd
 **Who are the members of your crowd?**
 The members of the crowd for our experiment were both our classmates but also the general public on Mechanical Turk when we made HITs and published them for people to participate. 
 
-For your final project, did you simulate the crowd or run a real experiment?
-Simulated crowd
+**For your final project, did you simulate the crowd or run a real experiment?**
 Real crowd
-If the crowd was simulated, how did you collect this set of data?
-If the crowd was simulated, how would you change things to use a real crowd?
-If the crowd was real, how did you recruit participants?
-How many unique participants did you have?
-Incentives
-What motivation does the crowd have for participating in your project?
+We recruited participants by offering economic incentive on Amazon MTurk. By posting the HITs, they were able to be paid for completing our tasks and that was the primary way we recruited/incentivized workers. 
+
+**How many unique participants did you have?**
+200
+
+## Incentives
+**What motivation does the crowd have for participating in your project?**
 Pay
 Altruism
-Enjoyment
-Implicit work
-Reputation
-Other
-How do you incentivize the crowd to participate? Please write 1-3 paragraphs giving the specifics of how you incentivize the crowd. If your crowd is simulated, then what would you need to do to incentivize a real crowd?
-Did you perform any analysis comparing different incentives?
-If you compared different incentives, what analysis did you perform? If you have a graph analyzing incentives, include the graph here.
-What the crowd gives you
+
+**How do you incentivize the crowd to participate? Please write 1-3 paragraphs giving the specifics of how you incentivize the crowd. If your crowd is simulated, then what would you need to do to incentivize a real crowd?**
+As mentioned above, the primary incentive we provided the crowd was an economic incentive. We essentially hired them to provide us with data by completing our HITs. By providing them with pay, this motivated people to participate in our tasks of gathering information on various political candidates. In our case, we thought economic incentive would be the primary reason people would complete our task.
+
+But, another incentive that our project involves is altruistic in nature. The goal of our tasks was to help to inform the general public about various presidential candidates for the 2020 election and thus, there was the additional incentive of helping to inform the general public. Although we don't anticipate this to be a primary form of incentive for the crowd, we do believe that there are individuals and workers who would participate because they wish to help improve awareness regarding the candidates. For those incentivized to participate for these reasons, we believe care about this issue and thus, would be more inclined to participate. 
+
+**Did you perform any analysis comparing different incentives?**
+No, but something to consider in the future is to use our quality control model analyzing the scores of quality of work of the crowd and determine if different pay levels yields different scores for workers. For example, if higher pay leads to a higher score for workers in our model. 
+
+## What the crowd gives you
 What does the crowd provide for you?
 Is this something that could be automated?
 If it could be automated, say how. If it is difficult or impossible to automate, say why.
