@@ -47,25 +47,30 @@ But, another incentive that our project involves is altruistic in nature. The go
 No, but something to consider in the future is to use our quality control model analyzing the scores of quality of work of the crowd and determine if different pay levels yields different scores for workers. For example, if higher pay leads to a higher score for workers in our model. 
 
 ## What the crowd gives you
-What does the crowd provide for you?
-Is this something that could be automated?
-If it could be automated, say how. If it is difficult or impossible to automate, say why.
-Did you train a machine learning component from what the crowd gave you?
-If you trained a machine learning component, describe what you did.
-Did you analyze the quality of the machine learning component? For instance, did you compare its quality against crowd workers using an n-fold cross validation?
-If you have a graph analyzing a machine learning component, include the graph here.
-Did you create a user interface for the crowd workers? Answer yes even if it’s something simple like a HTML form on CrowdFlower.
-If yes, please include a screenshot of the crowd-facing user interface in your report. You can include multiple screenshots if you want.
-Describe your crowd-facing user interface. This can be a short caption for the screenshot. Alternately, if you put a lot of effort into the interface design, you can give a longer explanation of what you did.
-Skills
-Do your crowd workers need specialized skills?
-What sort of skills do they need?
-Do the skills of individual workers vary widely?
-If skills vary widely, what factors cause one person to be better than another?
-Did you analyze the skills of the crowd?
+**What does the crowd provide for you?**
+The crowd provides valuable data regarding their views on a candidate's positions on various toppics. This data is related to their research, and their opinions regarding where along the spectrum these candidates would lie for these topics. 
+
+**Is this something that could be automated?**
+Finding the stances these candidates have on topics could be automated with a scraper that would just search the internet for this information, but the data that the crowd is providing us cannot be. Our data is unique in that it involves the observatios of where people think different candidates lie along the spectrum. This is something that cannot be automated because it requires the subjective views and opinions (informed as well) that people have who participate.
+
+**Did you train a machine learning component from what the crowd gave you?**
+No
+
+## Skills
+**Do your crowd workers need specialized skills**
+No, they just need to be able to research about the candidate and topics they are given and be able to differentiate between what is a reliable source and what is something that is completely fake. 
+
+**What sort of skills do they need?**
+Other than the ability to run searches on Google and the ability to read, they don't require any other skills. What they are doing is relatively simple and only requires that they provide their views on where the candidate lies along the spectrum for a given topic.
+
+**Do the skills of individual workers vary widely?**
+We don't believe the skills of individual workers varies that widely. The biggest difference from worker to worker would be initial knowledge of the candidates and their stances or how well informed they are regarding the election and the political topics. This would help them better discern their responses and provide potentially more accurate data which may make one worker better than the other. But, these things can all be done by searching online and using intuition and thus, the skills will not vary widely. 
+
+**Did you analyze the skills of the crowd?**
 If you analyzed skills, what analysis did you perform? How did you analyze their skills? What questions did you investigate? Did you look at the quality of their results? Did you analyze the time it took individuals to complete the task? What conclusions did you reach?
 Do you have a graph analyzing skills? If you have a graph analyzing skills, include the graph here.
-Quality Control
+
+## Quality Control
 Is the quality of what the crowd gives you a concern?
 How do you ensure the quality of the crowd provides?
 If quality if a concern, then what did you do for quality control? If it is not a concern, then what about the design of your system obviates the need for explicit QC? This answer should be substantial (several paragraphs long).
