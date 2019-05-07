@@ -3,8 +3,6 @@
 ### Stephen Li, Sam Cook, Adam Eldefrawy, Sydney Essex
 From the makers of College Confidential… we bring you Candidate Confidential, the simple and concise place to view the new candidates' policies and stances on various political topics for the 2020 election.
 
-![alt text](https://github.com/StephenLi7/NETS213-Candidate-Confidential/edit/master/Final%20Report/logo.png)
-
 **What problem does it solve?**
 Candidate Confidential solves the ever-growing issue of uninformed or overwhelmed voters. Some people don’t know who to vote for and don’t want to spend time searching the positions politicians take. Others just don’t know what’s fake news and may make misinformed voting decisions. And others just don’t care! With an important election coming in one and a half years, get up to speed with all of the candidates that have announced their running. After meeting with a TA, we decided that because the only two Republican candidates are Trump (whose policies and stances on topics have been made clear in his presidency) and one other minor candidate, we decided to focus solely on all of the democratic candidates because there are so many running (20 so far).
 
@@ -24,7 +22,11 @@ Conducting an in depth analysis of data
 How does your project work? Describe each of the steps involved in your project. What parts are done by the crowd, and what parts will be done automatically.
 
 **Link to our final video:**
-Who are the members of your crowd?
+
+### The Crowd
+**Who are the members of your crowd?**
+The members of the crowd for our experiment were both our classmates but also the general public on Mechanical Turk when we made HITs and published them for people to participate. 
+
 For your final project, did you simulate the crowd or run a real experiment?
 Simulated crowd
 Real crowd
