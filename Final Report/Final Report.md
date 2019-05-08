@@ -94,17 +94,25 @@ What questions did you investigate? What conclusions did you reach?
 **Do you have a graph analyzing quality? If you have a graph analyzing quality, include the graph here.**
 
 ## Aggregation
-How do you aggregate the results from the crowd?
+**How do you aggregate the results from the crowd?**
+
 To aggregate the results from the crowd, we summed 10 political ratings that the crowd provided for each political candidate. Thus, for each position for each candidate, we had 10 ratings out of 10 from 10 workers, where 10 was the most liberal and 1 is the most conservative. Summing these 10 ratings yielded a rating out of 100 (where 100 is most liberal and 10 is most conservative).
-Did you analyze the aggregated results?
+
+**Did you analyze the aggregated results?**
+
 Yes, then we took an average of all the political ratings for each candidate. That is, we summed the political ratings for all the positions and then dividied it by the number of political positions for each candidate. This is supposed to be an all-included (from the political positions we polled for) rating of the political stance of each candidate. With this info, we created a bar graph for visual representation and found that our findings were consistent with what one might expect.
-What analysis did you perform on the aggregated results? What questions did you investigate? Did you compare aggregated responses against individual responses? What conclusions did you reach?
-On the aggregated results, we compiled a graph that shows clearly where candidates are on the scale of 10-100 for how liberal they are. We found that our findings are consistent with exactly what is expected. For example, the one outlier on the conservative side is the only Republican candidate that we polled for. He is the only candidate that received an overall political position score of under 50. Furthermore, the outlier on the liberal side was Bernie Sanders, who is generally known as an extremely liberal progressive candidate. Thus, we reached the conclusions that the crowd generally perceived the candidates correctly. 
-Do you have a graph analyzing the aggregated results? If you have a graph analyzing the aggregated results, include the graph here.
+
+**What analysis did you perform on the aggregated results? What questions did you investigate? Did you compare aggregated responses against individual responses? What conclusions did you reach?**
+
+On the aggregated results, we compiled a graph that shows clearly where candidates are on the scale of 10-100 for how liberal they are. We found that our findings are consistent with exactly what is expected. For example, the one outlier on the conservative side is the only Republican candidate that we polled for. He is the only candidate that received an overall political position score of under 50. Furthermore, the outlier on the liberal side was Bernie Sanders, who is generally known as an extremely liberal progressive candidate. Thus, we reached the conclusions that the crowd generally perceived the candidates correctly.
+
+**Do you have a graph analyzing the aggregated results? If you have a graph analyzing the aggregated results, include the graph here.**
 The graph is attached as a file.
-Did you create a user interface for the end users to see the aggregated results? If yes, pleaseinclude a screenshot of the user interface for the end user in your final report. You can include multiple screenshots, if you want.
+
+**Did you create a user interface for the end users to see the aggregated results? If yes, pleaseinclude a screenshot of the user interface for the end user in your final report. You can include multiple screenshots, if you want.**
+
 No, we did not create a user interface as there is nothing for a user ot interact with.
-Describe what your end user sees in this interface. This can be a short caption for the screenshot. Alternately, if you put a lot of effort into the interface design, you can give a longer explanation of what you did.
+
 Scaling Up
 What is the scale of the problem that you are trying to solve?
 Would your project benefit if you could get contributions from thousands of people?
