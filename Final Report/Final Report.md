@@ -66,8 +66,7 @@ Other than the ability to run searches on Google and the ability to read, they d
 We don't believe the skills of individual workers varies that widely. The biggest difference from worker to worker would be initial knowledge of the candidates and their stances or how well informed they are regarding the election and the political topics. This would help them better discern their responses and provide potentially more accurate data which may make one worker better than the other. But, these things can all be done by searching online and using intuition and thus, the skills will not vary widely. 
 
 **Did you analyze the skills of the crowd?**
-If you analyzed skills, what analysis did you perform? How did you analyze their skills? What questions did you investigate? Did you look at the quality of their results? Did you analyze the time it took individuals to complete the task? What conclusions did you reach?
-Do you have a graph analyzing skills? If you have a graph analyzing skills, include the graph here.
+Other than using gold standard questions for quality control, we did not test any other skills of the crowd. In order to complete our task, all the worker has to do is some basic research on google.
 
 ## Quality Control
 **Is the quality of what the crowd gives you a concern?**
@@ -89,9 +88,11 @@ These are te primary ways we are trying to ensure the quality of the work, but, 
 We used gold standard questions in order to rate the quality of worker responses to our HIT. The two candidates who are the most well-known, Bernie Sanders and Elizabeth Warren, were used as our "gold standard candidates". We determined correct ranges of scores through our own research and used these ranges to score our workers' responses. For example, our range for Bernie Sanders view on taxation is 8-10, where 10 is the most liberal. If a worker responded within this range, their quality score increases by 1. If a worker responded within 3 of the range, their quality score remains the same. Finally, if a worker was far off from the gold standard established range, their quality score is decremented by 1. Workers are then rated on a qaulity control scale ranging from -10 to 10. Any worker with a score lower than 0 is considered unreliable, while scores between 0 and 5 are considered semi-reliable. Scores over 5 are considered very reliable. Through this means of a quality rating, we are able to determine which workers are generally accurate with their responses and which are not.
 
 **What analysis did you perform on quality?**
-What questions did you investigate? What conclusions did you reach?
+We analyzed the results of the gold standard questions to determine how many of our responses were usable. We found that a large majority of the crowd gave accurate responses to our HIT, while only a small percent gave poor answers to the gold standard questions and thus proved to give unreliable results. 
 
 **Do you have a graph analyzing quality? If you have a graph analyzing quality, include the graph here.**
+
+INSERT GRAPH HERE
 
 ## Aggregation
 **How do you aggregate the results from the crowd?**
@@ -107,32 +108,66 @@ Yes, then we took an average of all the political ratings for each candidate. Th
 On the aggregated results, we compiled a graph that shows clearly where candidates are on the scale of 10-100 for how liberal they are. We found that our findings are consistent with exactly what is expected. For example, the one outlier on the conservative side is the only Republican candidate that we polled for. He is the only candidate that received an overall political position score of under 50. Furthermore, the outlier on the liberal side was Bernie Sanders, who is generally known as an extremely liberal progressive candidate. Thus, we reached the conclusions that the crowd generally perceived the candidates correctly.
 
 **Do you have a graph analyzing the aggregated results? If you have a graph analyzing the aggregated results, include the graph here.**
-The graph is attached as a file.
+
+INSERT GRAPH HERE
 
 **Did you create a user interface for the end users to see the aggregated results? If yes, pleaseinclude a screenshot of the user interface for the end user in your final report. You can include multiple screenshots, if you want.**
 
-No, we did not create a user interface as there is nothing for a user ot interact with.
+No, we did not create a user interface as there is nothing for a user to interact with.
 
-Scaling Up
-What is the scale of the problem that you are trying to solve?
-Would your project benefit if you could get contributions from thousands of people?
-If it would benefit from a huge crowd, how would it benefit?
-What challenges would scaling to a large crowd introduce?
-Did you perform an analysis about how to scale up your project? For instance, a cost analysis?
-What analysis did you perform on the scaling up?
-What questions did you investigate? What conclusions did you reach?
-Do you have a graph analyzing scaling? If you have a graph analyzing scaling, include the graph here.
-Project Analysis
-Did your project work? How do you know? Analyze some results, discuss some positive outcomes of your project.
-Do you have a graph analyzing your project? If you have a graph analyzing your project, include the graph here.
-What were the biggest challenges that you had to deal with?
-Where there major changes between what you originally proposed and your final product?
-If so, what changed between your original plan and your final product?
-What are some limitations of your product? If yours is an engineering-heavy project, what would you need to overcome in order to scale (cost/incentives/QC…)? If yours was a scientific study, what are some sources of error that may have been introduced by your method.
-Did your results deviate from what you would expect from previous work or what you learned in the class?
-If your results deviated, why might that be?
-Technical Challenges
-Did your project require a substantial technical component? Did it require substantial software engineering? Did you need to learn a new language or API?
-If project required a substantial technical component, describe the largest technical challenge you faced.
-How did you overcome this challenge? What new tools or skills were required? Feel free to nerd out a bit, to help us understand the amount of work that was required.
-Do you have any screen shots or flow diagrams to illustrate the technical component you described? If so, include the graph here.
+## Scaling Up
+**What is the scale of the problem that you are trying to solve?**
+The scale of the problem is mainly within the US, but can extend internationally as the US presidential election is a concern for more than just US citizens. That being said, the main focus of our project is to inform US voters about their potential presidential nominees.
+
+**Would your project benefit if you could get contributions from thousands of people?**
+Our project would continue to benefit as more and more people contributed. Adding new peoples opinions and ratings of candidates just increases the accuracy as the volume of responses increases.
+
+**If it would benefit from a huge crowd, how would it benefit?**
+Our project would become more accurate as the number of contributers increased. With a relatively small crowd, we were able to give an accurate representation of the presidential candidates on 5 key issues previously determined as the most important to the US population by the crowd. With a larger crowd, we would be able to not only gain more accurate results, but also increase the number of issues we analyzed and provide a better picture of the presidential race to people across the country.
+
+**What challenges would scaling to a large crowd introduce?**
+If we were faced with scaling to a large crowd, we would most likely have to use a different means of quality control. Although our current quality control algorithm provides a relaitively accurate depiction of the crowd's accuracy, our project could benefit with a more full-proof quality control algorithm that could eliminate any unreliable sources from the crowd.
+
+**Did you perform an analysis about how to scale up your project? For instance, a cost analysis?**
+No, we did not perform any analysis on how we would scale up our project. For our project, scaling up would cost us much more money as we pay workers $0.01 for each HIT they complete.
+
+**What analysis did you perform on the scaling up?**
+
+**What questions did you investigate? What conclusions did you reach?**
+
+**Do you have a graph analyzing scaling? If you have a graph analyzing scaling, include the graph here.**
+
+## Project Analysis
+
+**Did your project work? How do you know? Analyze some results, discuss some positive outcomes of your project.**
+Our project did work. We know this because we were able to gain accurate ratings on candidates for 5 of the most important issues to the public. Also, through our quality control algorithm, we were able to eliminate void crowd responses from our data and keep the overall ratings accurate and consistent with other internet sources. After researching further into the 20 different candidates, we found that the crowd's responses to the different issues for each candidate were very accurate. With further work, we could create a platform for people to visit to find how their fellow US citizens have rated these different candidates on the important issues in our nation.
+
+**Do you have a graph analyzing your project? If you have a graph analyzing your project, include the graph here.**
+
+INSERT GRAPH HERE
+
+**What were the biggest challenges that you had to deal with?**
+The biggest challenge we had to deal with was finding an effective means of quality control. With our method of gold standard ranges, we can find and eliminate the inaccurate responses effectively, however it is somewhat subjective. With our own research as a team, we created these gold standard questions and responses, but one person's idea of a 6/10 could be different from anothers. If we could find an entirely objective means of quality control, that would be beneficial. We tried our best with the data we had and were able to obtain accurate results, but there is always room for improvement when it comes to controlling the quality of your crowd responses. Another challenge we had to deal with was narrowing down the issues we asked about to the 5 most important. We eventually decided to have the crowd choose this for us as well and were able to find 5 issues that the crowd voted overwhelmingly as the most important to the US population.
+
+**Where there major changes between what you originally proposed and your final product?**
+No, we were able to complete what we proposed originally.
+
+**If so, what changed between your original plan and your final product?**
+
+**What are some limitations of your product? If yours is an engineering-heavy project, what would you need to overcome in order to scale (cost/incentives/QC…)? If yours was a scientific study, what are some sources of error that may have been introduced by your method.**
+One consistent source of error that could occur with our project is its relative subjectivity. The responses to our HIT do not have one correct answer, but this is what makes it more helpful to users in the end. Although two crowd workers could know the same information about a candidate yet still give a different rating on certain issues, this works to our benefit as our data provides an average citizens opinions on candidates rather than a potentially biased news source. These other sources on candidates can be easily found online but can also be tailored to certain audiences and could leave out certain information. Another source of error could arise from our quality control algorithm or from crowd workers misreading the prompt. Our algorithm was able to identify certain responses that were the complete opposite of what was expected. This could be because the worker thought that 1 meant ultra liberal and 10 ultra conservative rather than the other way around. Although this is explained in the HIT introduction, misreading is always a possibility when dealing with large amounts of responses.
+
+**Did your results deviate from what you would expect from previous work or what you learned in the class?**
+No, our responses were as accurate as expected, with exceptions as always when dealing with the crowd.
+
+**If your results deviated, why might that be?**
+
+## Technical Challenges
+**Did your project require a substantial technical component? Did it require substantial software engineering? Did you need to learn a new language or API?**
+No, we used MTurk for our crowdsourcing platform which we had already learned how to use earlier in the class. We also used python for our aggregation and quality control algorithms.
+
+**If project required a substantial technical component, describe the largest technical challenge you faced.**
+
+**How did you overcome this challenge? What new tools or skills were required? Feel free to nerd out a bit, to help us understand the amount of work that was required.**
+
+**Do you have any screen shots or flow diagrams to illustrate the technical component you described? If so, include the graph here.**
