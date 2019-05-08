@@ -81,7 +81,9 @@ The first thing we did to ensure the quality of the crowd is by providing a tiny
 
 The second thing we did was the ensure that the workers were motivated to provide quality responses and thus usable data. By providing an adequate financial incentive, we hoped that the workers would conduct the work we asked of them properly. Although we did not test different levels of pay, we did pay workers a fair amount that would ensure that they were being compensated for good work. On top of financial incentive, we also made it so that each workers work is not significant. They are responsible for only a single topic for a candidate which makes it a straightforward and simple task.
 
-Finally, we wrote a program to score each of the workers. 
+Finally, we wrote a program to score each of the workers. For a few of the candidates, it is very easy to tell what value they should have for a specific topic. In the case of our project, we know that Bernie Sanders is very far on the liberal side so we as a team gave him a value for specific topics. These topics that we decided were relatively easy to determine and are serving as our gold standard questions and values that are embedded in the HITs. We can determine the quality of work and whether a worker is not trying at all based off of how far away from the answer we expect their answer is. By incorporating gold standards, we can measure the quality of the work that is being done and accept or deny it accordingly.
+
+These are te primary ways we are trying to ensure the quality of the work, but, it is important to note that in terms of the scale of this class, there were still limits. To are larger degree, quality control will always be a concern with regards to crowdsourcing because it is impossible to ensure the quality of each person's work and their desire to do the work. These were just ways that our team decided to stabilize the quality to the best of our abilities. 
 
 **Did you analyze the quality of what you got back? For instance, did you compare the quality of results against a gold standard? Did you compare different QC strategies?**
 
