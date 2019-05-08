@@ -21,6 +21,7 @@ Conducting an in depth analysis of data
 How does your project work? Describe each of the steps involved in your project. What parts are done by the crowd, and what parts will be done automatically.
 
 **Link to our final video:**
+https://vimeo.com/334918988
 
 ## The Crowd
 **Who are the members of your crowd?**
