@@ -78,14 +78,19 @@ In general, there are many ways to ensure the quality the crowd provides. The fi
 
 **If quality if a concern, then what did you do for quality control? If it is not a concern, then what about the design of your system obviates the need for explicit QC? This answer should be substantial (several paragraphs long).**
 The first thing we did to ensure the quality of the crowd is by providing a tiny paragraph of background information about the candidates. This way, at the very least, if the workers do not go and actually do the research, there is some level of understanding of who the candidate is and their position along the political spectrum. Providing them with this baseline level of knowledge is important in improving their knowledge going into their selections.
+
 The second thing we did was the ensure that the workers were motivated to provide quality responses and thus usable data. By providing an adequate financial incentive, we hoped that the workers would conduct the work we asked of them properly. Although we did not test different levels of pay, we did pay workers a fair amount that would ensure that they were being compensated for good work. On top of financial incentive, we also made it so that each workers work is not significant. They are responsible for only a single topic for a candidate which makes it a straightforward and simple task.
+
 Finally, we wrote a program to score each of the workers. 
 
 **Did you analyze the quality of what you got back? For instance, did you compare the quality of results against a gold standard? Did you compare different QC strategies?**
-What analysis did you perform on quality?
+
+**What analysis did you perform on quality?**
 What questions did you investigate? What conclusions did you reach?
-Do you have a graph analyzing quality? If you have a graph analyzing quality, include the graph here.
-Aggregation
+
+**Do you have a graph analyzing quality? If you have a graph analyzing quality, include the graph here.**
+
+## Aggregation
 How do you aggregate the results from the crowd?
 Did you analyze the aggregated results?
 What analysis did you perform on the aggregated results? What questions did you investigate? Did you compare aggregated responses against individual responses? What conclusions did you reach?
