@@ -35,8 +35,7 @@ We recruited participants by offering economic incentive on Amazon MTurk. By pos
 
 ## Incentives
 **What motivation does the crowd have for participating in your project?**
-Pay
-Altruism
+Pay, Altruism
 
 **How do you incentivize the crowd to participate? Please write 1-3 paragraphs giving the specifics of how you incentivize the crowd. If your crowd is simulated, then what would you need to do to incentivize a real crowd?**
 As mentioned above, the primary incentive we provided the crowd was an economic incentive. We essentially hired them to provide us with data by completing our HITs. By providing them with pay, this motivated people to participate in our tasks of gathering information on various political candidates. In our case, we thought economic incentive would be the primary reason people would complete our task.
@@ -71,10 +70,18 @@ If you analyzed skills, what analysis did you perform? How did you analyze their
 Do you have a graph analyzing skills? If you have a graph analyzing skills, include the graph here.
 
 ## Quality Control
-Is the quality of what the crowd gives you a concern?
-How do you ensure the quality of the crowd provides?
-If quality if a concern, then what did you do for quality control? If it is not a concern, then what about the design of your system obviates the need for explicit QC? This answer should be substantial (several paragraphs long).
-Did you analyze the quality of what you got back? For instance, did you compare the quality of results against a gold standard? Did you compare different QC strategies?
+**Is the quality of what the crowd gives you a concern?**
+Like all crowdsourcing, the quality of what the crowd gives is a concern. What's the point in gathering data and information on candidates if the information is incorrect or if the quality is extremely low and the crowd doesn't put any effort? Then our efforts would be futile. Nevertheless, we have taken measures to improve the quality of the work the crowd provides or detect if the quality is not high enough. 
+
+**How do you ensure the quality of the crowd provides?**
+In general, there are many ways to ensure the quality the crowd provides. The first can be ensuring that the skills and knowledge are there for the workers. If they workers don't have the proper skills (ie speaking a language), then they cannot provide quality work in many cases. This is the same for knowledge regarding a subject like political candidates in our case. Another way to ensure the quality of the crowd is through financial incentives. By providing this financial incentive, it can help to ensure that the workers are more motivated to provide higher quality work as a result of the financial incentive. Something we learned in class is embedding gold standards within the crowdsourcing component. This includes having an answer that can be measured as a standard against to determine the quality of the work. 
+
+**If quality if a concern, then what did you do for quality control? If it is not a concern, then what about the design of your system obviates the need for explicit QC? This answer should be substantial (several paragraphs long).**
+The first thing we did to ensure the quality of the crowd is by providing a tiny paragraph of background information about the candidates. This way, at the very least, if the workers do not go and actually do the research, there is some level of understanding of who the candidate is and their position along the political spectrum. Providing them with this baseline level of knowledge is important in improving their knowledge going into their selections.
+The second thing we did was the ensure that the workers were motivated to provide quality responses and thus usable data. By providing an adequate financial incentive, we hoped that the workers would conduct the work we asked of them properly. Although we did not test different levels of pay, we did pay workers a fair amount that would ensure that they were being compensated for good work. On top of financial incentive, we also made it so that each workers work is not significant. They are responsible for only a single topic for a candidate which makes it a straightforward and simple task.
+Finally, we wrote a program to score each of the workers. 
+
+**Did you analyze the quality of what you got back? For instance, did you compare the quality of results against a gold standard? Did you compare different QC strategies?**
 What analysis did you perform on quality?
 What questions did you investigate? What conclusions did you reach?
 Do you have a graph analyzing quality? If you have a graph analyzing quality, include the graph here.
